@@ -1,0 +1,78 @@
+.compContainer{
+    display: flex;
+    flex-direction: column;
+    min-width: 100vw;
+
+}
+.compContainer input{
+    width: 60%;
+    margin: auto !important;
+    height: 35px;
+    border: 1px solid black;
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px !important;
+    font-size: 12px;
+    padding: 5px;
+    overflow-x: scroll !important;
+    font-weight: normal;
+    color: black;
+    background-color: rgb(211, 211, 211);
+    border-radius: 5px;
+    transition: all 0.5s ease-in-out;
+}
+.compContainer input:focus{
+    outline: none;
+    background-color: aliceblue;
+    color: #000;
+}
+.compContainer button{
+    width: 20%;
+    margin: auto !important;
+    height: 35px;
+    border: 1px solid rgb(141, 141, 141);
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px !important;
+    font-size: 12px;
+    padding: 5px;
+        
+    font-weight: normal;
+    color: white;
+    background-color: rgb(141, 141, 141);
+    border-radius: 5px;
+    transition: all 0.5s ease-in-out;
+}
+
+.ques{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    margin: auto !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 5px;
+    background-color: rgb(211, 211, 211);
+    color: black;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: normal;
+    transition: all 0.5s ease-in-out;
+}
+.ques:hover{
+    background-color: aliceblue;
+    color: #000;
+}
+.compTitle{
+    width: 100vw !important;
+    background-color: #000 !important;
+    color: white;
+    margin-bottom: 10px !important;
+}
+/* #root > div > div > h1{
+    color: white !important;
+    background-color: #000;
+    font-size: 24px;
+    font-weight: normal;
+    padding: 10px;
+    margin-bottom: 20px !important;
+} */

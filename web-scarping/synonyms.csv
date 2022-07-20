@@ -1,0 +1,417 @@
+javascript,"['js', 'ecmascript', '.js', 'javascript-execution', 'classic-javascript', 'javascript-alert', 'javascript-dom', 'javascript-disabled', 'javascript-library', 'javascript-runtime', 'vanilla-javascript', 'javascript-module', 'vanilla-js', 'vanillajs']"
+python,"['pythonic', 'python-interpreter', 'python-shell', 'py']"
+java,"['java-se', '.java', 'j2se', 'core-java', 'jdk', 'jre', 'java-libraries', 'oraclejdk', 'openjdk', 'javax', 'java-api']"
+c#,"['c-sharp', 'c#.net', 'c#-language', 'visual-c#', 'csharp', '.cs-file']"
+php,"['php-oop', 'php-date', 'php5', 'php-frameworks', 'hypertext-preprocessor', 'php.ini', 'php-cli', 'php-errors', 'php-mail', 'php-cgi', 'php-functions', 'php-session', 'php-fpm', 'phtml', 'php-include', 'php-namespaces', 'phpinfo']"
+android,"['android-mobile', 'android-sdk', 'android-api', 'android-device', 'android-application', 'android-ui', 'android-framework']"
+html,"['html-tag', 'html-attributes', 'div', 'divs', 'nested-divs', 'div-layouts', 'html-comments', 'span', 'webpage', 'time-tag', 'html5', 'html-head', 'html-syntax']"
+jquery,"['jquery-core', 'jquery-live', 'addclass', 'toggleclass', 'removeclass', 'jquery-callback', 'jquery-after', 'jquery-hasclass', 'jquery-get', 'jquery-post', 'jquery-find', 'jquery-css', 'jquery-filter', 'jquery-effects']"
+c++,"['cpp', 'cxx']"
+css,"['cascading-style-sheet', 'css-layout', 'css-background-image', 'css-attributes', 'css-classes', 'css-height', 'css2', 'css-columns', 'css-inheritance', 'css-centering', 'min-height', 'min-width', 'max-height', 'max-width', 'box-model', 'style.css-template-file', 'css-validation', 'css-display', 'css-line-height', 'css-overflow', 'alternate-stylesheets', 'inline-block', 'css-box-model', 'font-weight', 'css-menu', 'css-reset', 'css-borders', 'dynamic-css', 'css-font-weight', 'css3', 'css-text-shadow', 'css-box-shadow', 'css-border-radius', 'css-border-image', 'css-text-overflow', 'box-sizing', 'box-shadow']"
+ios,"['iphone-os', 'apple-ios', 'ios-sdk']"
+mysql,"['my-sql', 'mysql-query', 'mysql-server', 'mysql-table', 'mysqld', 'mysqlclient', 'mysqldump', 'mysqlsh', 'mysql-if']"
+sql,"['sql-query', 'sql-statement', 'sql-syntax', 'sql-select', 'sqlselect', 'select-statement']"
+r,"['rstats', 'r-language']"
+node.js,"['nodejs', 'io.js']"
+reactjs,"['react', 'react-jsx', 'react.js']"
+arrays,"['array', 'array-of-objects', 'javascript-array', 'string-array', 'char-array', 'jsonarray', 'mongodb-arrays', 'sub-arrays', 'character-arrays', 'swift-array', 'static-array', 'bytearray', 'arraycopy']"
+asp.net,"['asp-net', 'aspx', 'asp.net-website', 'aspdotnet']"
+json,"['json-parsing', 'json-encode', 'json-decode', 'jsonobject']"
+ruby-on-rails,"['rails', 'ror']"
+.net,"['dotnet', 'dot-net', '.net-framework']"
+sql-server,"['mssql', 'ms-sql-server', 'sql-srever']"
+python-3.x,"['python-3', 'py3k', 'python3k', 'python3', 'py3']"
+swift,"['swift-language', 'swift-ios', 'swift1.2']"
+objective-c,['objc']
+angular,"['angular2', 'angular4', 'angular4.x', 'angularjs2']"
+excel,"['ms-excel', 'workbook', 'excel-macro']"
+regex,"['regexp', 'regular-expression', 'regular-expressions', 'regexes', 'regex-php', 'perl-regex', 'perlre', 'regularexpression', 'apache-regexp']"
+iphone,"['iphone-sdk', 'iphone-development', 'iphone-app', 'iphone-programming', 'iphone-ios', 'iphone-web']"
+ajax,"['.ajax', 'ajax-request']"
+xml,['xml-file']
+vba,"['visual-basic-applications', 'vba-macros', 'macros-vba']"
+asp.net-mvc,"['asp-net-mvc', 'asp.mvc', 'mvc.net', 'asp-mvc', 'asp.net.mvc', 'aspnet-mvc', 'aspnet.mvc']"
+spring,"['spring-framework', 'spring-config', 'spring-java-config']"
+database,"['databases', 'db', 'database-structure', 'dbms']"
+typescript,"['atscript', 'vanilla-typescript']"
+wordpress,"['wordpress-permission', 'wordpress-loop', 'wordpress-widget', 'wordpress-filter', 'wordpress-plugin-dev', 'wordpress-mu', 'wordpress-theme-customize', 'wp-query', 'wordpress-plugin', 'wpdb', 'wordpress-upgrade']"
+string,"['strings', 'string-manipulation', 'str', 'empty-string']"
+mongodb,"['mongo', 'mongod']"
+windows,"['windows-programming', 'windows-application', 'windows-applications']"
+postgresql,"['postgres', 'pgsql', 'sql-postgres']"
+xcode,['xcode-ide']
+bash,"['bash-script', 'bashrc', '.bashrc', 'bash-alias', 'bash-variables', '.bash-profile', 'bash-function']"
+git,['git-commands']
+amazon-web-services,['aws']
+vb.net,"['vbproj', 'vb']"
+multithreading,"['threading', 'multithread', 'multi-threaded', 'threads', 'thread', 'cross-threading']"
+list,"['lists', 'ilist', 'python-list', 'list-comparison']"
+flutter,['flutter-sdk']
+firebase,['firebase-android']
+dataframe,"['data-frame', 'dataframes', 'data.frame', 'pandas-df', 'r-df', 'df']"
+azure,"['windows-azure', 'az']"
+react-native,"['reactjs-native', 'react-native-android', 'react-native-ios']"
+algorithm,"['algorithms', 'algorithm-design']"
+macos,"['macosx', 'mac', 'osx']"
+forms,"['form', 'html-form']"
+image,"['images', 'img', 'picture', 'pictures']"
+visual-studio,"['vs.net', 'msvs', 'visual-studio-community']"
+powershell,['windows-powershell']
+function,"['functions', 'def']"
+twitter-bootstrap,['bootstrap-framework']
+api,['apis']
+performance,"['performance-issues', 'perfomance', 'performance-tuning', 'slow', 'fast', 'performance-comparison', 'speed', 'faster', 'running-time', 'speed-up', 'efficiency', 'wcf-performance', 'linq-performance', 'jquery-performance', 'javascript-performance', 'android-performance', 'application-performance', 'tuning', 'slowness', 'performance-measurement', 'performance-monitoring', 'code-efficiency', 'slow-load']"
+winforms,"['windows-forms', 'window-form', 'windows-form', 'window-forms', 'winform', 'windows.forms', 'windows-forms-app']"
+vue.js,"['vuejs', 'vue', 'vue-js']"
+matlab,"['matlab-path', 'matlab-ide', 'matlab-toolbox', 'mlint', 'm-file']"
+sqlite,"['sqllite', 'sqlitedatabase', 'sqlite3']"
+apache,['httpd']
+loops,"['loop', 'looping', 'iterate']"
+entity-framework,"['ef', 'linq-entity-framework', 'entity-framework-mapping', 'entity-framework-designer', 'fluent-entity-framework', 'sql-to-entity-framework']"
+rest,"['restful', 'restful-web-services', 'rest-api', 'restful-architecture', 'restapi']"
+shell,"['shell-script', 'shell-scripting', 'shell-command', 'shell-commands', 'shellscript', 'shell-trap']"
+android-studio,['androidstudio-settings']
+facebook,"['facebook-api', 'facebook-sdk', 'facebook-application', 'facebook-connect', 'facebook-sdk-ios']"
+csv,"['.csv', 'comma-separated', 'tsv', 'tab-delimited', 'tab-delimited-text', 'delimited-text', 'delimiter-separated-values']"
+linq,"['language-integrated-query', 'linq-query-syntax']"
+maven,['mvn']
+unit-testing,"['unit-test', 'unit-tests', 'unittest']"
+swing,"['java-swing', 'javax.swing']"
+file,['files']
+tensorflow,['tensorflow-gpu']
+class,['classes']
+apache-spark,"['spark-cluster-framework', 'spark']"
+date,"['dates', 'java-date', 'date-of-birth', 'dob']"
+sorting,"['sort', 'sorting-algorithm', 'array-sorting', 'date-sorting', 'sorted']"
+.htaccess,"['htaccess', 'codeigniter-htaccess']"
+dictionary,"['dict', 'dictionaries', 'map']"
+symfony,"['symfony2', 'symfony3']"
+tsql,['transact-sql']
+asp.net-core,"['asp.net-5', 'asp.net-vnext', 'aspnet-core', 'asp-net-core']"
+google-chrome,['chrome']
+codeigniter,"['codeigniter-url', 'codeigniter-routing', 'codeigniter-form-helper', 'codeigniter-validation', 'codeigniter-activerecord', 'codeigniter-pagination', 'codeigniter-hmvc', 'codeigniter-helpers', 'codeigniter-hooks']"
+opencv,"['opencv-contrib', 'opencv-python']"
+perl,['perl5']
+datetime,"['datetime-functions', 'datetime-operation', 'datetime-manipulation']"
+for-loop,['for']
+matplotlib,"['pyplot', 'pylab', 'plt']"
+unity3d,"['unity-game-engine', 'unity', 'unity2d', 'unity5', 'unity5.3', 'unity3d-5']"
+validation,"['validations', 'validators', 'validate', 'input-validation', 'form-validation', 'validator', 'data-validation', 'validating']"
+sockets,"['socket', 'socket-programming', 'bsd-sockets']"
+uitableview,"['uitable', 'uitableviewcell', 'uitableviewcellaccessory', 'uitableviewcellstylevalue', 'uitableviewstyle', 'uitableviewdatasource', 'uitableviewdelegate', 'uitableviewheader', 'uitableviewfooter', 'uitableview-section', 'uitableviewstylegrouped', 'uitableviewcontroller', 'uitableviewcelll', 'tableviewcell']"
+go,"['golang', 'go-language']"
+object,['objects']
+cordova,['apache-cordova']
+web-services,['web-service']
+oop,"['object-oriented', 'object-oriented-design', 'oops', 'object-oriented-modeling', 'oo-design', 'object-orientation', 'oo', 'ood']"
+android-layout,['android-layout-xml']
+email,"['mail', 'email-integration', 'email-injection']"
+if-statement,"['if', 'if-else-statement', 'if-then-else', 'if-else', 'else', 'if-then', 'ifelse', 'elseif', 'if-clause', 'if-condition']"
+ubuntu,"['xubuntu', 'kubuntu', 'lubuntu']"
+spring-mvc,"['spring-web', 'spring-mvc-initbinders']"
+ruby-on-rails-3,"['rails3', 'ror3']"
+c++11,['c++0x']
+ms-access,"['microsoft-access', 'mdb', 'accdb']"
+parsing,"['parser', 'parsers', 'parse']"
+elasticsearch,['elastic']
+security,"['secure', 'vulnerability', 'vulnerabilities', 'web-security', 'cybersecurity']"
+authentication,"['logon', 'auth', 'authenticate', 'user-authentication', 'client-authentication', 'login']"
+user-interface,"['ui', 'gui']"
+pointers,"['pointer', 'ptr']"
+sql-server-2008,"['sql2008', 'mssql2008', 'ssms-2008']"
+templates,['template']
+batch-file,"['windows-batch', 'batch-files', '.bat', 'bat', 'dos-batch', 'winbatch', 'batch-script', 'batch', 'cmd-script']"
+wcf,['wcf-service']
+flask,['flask-blueprint']
+debugging,"['debug', 'debugger']"
+delphi,['object-pascal']
+jpa,"['java-persistence-api', 'jakarta-persistence']"
+ssl,['tls']
+kubernetes,['k8s']
+ggplot2,"['qplot', 'ggplot']"
+asynchronous,"['async', 'asynchronous-processing', 'asynchronously']"
+selenium-webdriver,"['selenium2', 'selenium-webdriver-c#', 'selenium-webdriver-java', 'webdriverjs']"
+visual-studio-2010,"['vs2010', 'visual-studio-2010-rtm', 'msvc10', 'vs2010-express', 'visual-studio-2010-rc', 'visual-studio-2010-beta-1', 'visual-studio-2010-beta-2', 'visual-studio-2010-sp1']"
+google-apps-script,"['google-scripts', 'google-script', 'googlescript', 'google-apps-script-menu', 'google-apps-script-runtime', 'google-apps-script-libraries', 'google-sheets-macros', 'google-apps-script-dashboard', 'google-apps-script-project', 'google-apps-script-editor', 'google-sheets-custom-function', 'google-apps-script-addon', 'gsuite-addons', 'advanced-google-services', 'gmail-addons', 'gs-installable-triggers', 'google-apps-script-simple-triggers', 'google-apps-script-web-application', 'gas-web-app', 'google-apps-script-html-service']"
+testing,"['software-testing', 'tests', 'test']"
+unix,"['unix-programming', 'unix-utils']"
+generics,"['generic', '.net-generics', 'generic-class', 'swift-generics', 'java-generics', 'kotlin-generics', 'scala-generics', 'generic-programming']"
+google-app-engine,"['gae', 'appengine', 'google-app-engine-java']"
+visual-studio-code,"['vscode', 'vscode-settings']"
+amazon-s3,"['s3', 'aws-s3', 's3-bucket', 'amazon-s3-bucket']"
+web,"['www', 'websites', 'website']"
+ionic-framework,['ionic']
+google-sheets,"['sheets', 'google-spreadsheet', 'gs', 'google-sheets-conditionalformatting', 'gs-conditional-formatting', 'google-sheets-filter-view', 'google-sheets-charts', 'google-sheets-export-url']"
+recursion,['recursive']
+session,['sessions']
+hadoop,['apache-hadoop']
+web-scraping,"['webpagescraping', 'scraper']"
+animation,"['animations', 'animated', 'rotateanimation', 'scaleanimation']"
+asp.net-mvc-4,['mvc4']
+tomcat,['apache-tomcat']
+url,['urls']
+math,"['mathematics', 'maths', 'mathematical', 'arithmetic']"
+actionscript-3,"['as3', 'as3-api']"
+svg,"['svgz', 'svg-path', 'svg-image', 'svg-favicon']"
+exception,"['exceptions', 'exception-handling', 'custom-exceptions']"
+join,"['joins', 'sql-join', 'jointable']"
+inheritance,"['inheritence', 'inherit']"
+assembly,"['asm', 'assembler', 'assembly-language']"
+intellij-idea,"['intellij', 'intellij-2016.1']"
+winapi,"['windows-api', 'win32', 'win32api', 'window-api', 'windows-sdk']"
+django-models,"['django-fields', 'django-imagefield']"
+dom,"['html-dom', 'htmldocument']"
+redirect,"['redirects', 'redirection', 'redirecting', 'url-redirection']"
+matrix,['matrices']
+internet-explorer,"['ie', 'msie']"
+logging,"['logger', 'log', 'logs']"
+button,['buttons']
+google-cloud-platform,"['google-cloud', 'gcp']"
+d3.js,"['d3', 'd3js', 'd3v4', 'd3.js-v4', 'd3v5', 'd3.js-v5']"
+asp.net-mvc-3,"['mvc3', 'asp.net-mvc-3-validation']"
+select,['select-query']
+firebase-realtime-database,['firebase-database']
+laravel-5,"['laravel-5.3', 'laravel-5.2', 'laravel-5.1', 'laravel-5.5', 'laravel-5.4', 'laravel-5.6']"
+magento,"['magento-enterprise', 'magento-catalog', 'magento-theming', 'magento-extension', 'magento-upgrade', 'magento-admin', 'magento-module', 'magento-widgets']"
+xpath,['xpath-expression']
+xslt,"['xsl', 'xsltransform', 'xsltproc', 'xsltprocessor', 'xslt-2.0-processors', 'xml-transform']"
+networking,"['network', 'networks']"
+events,['event']
+caching,"['cache', 'cached', 'cache-coherence']"
+optimization,"['optimisation', 'optimize', 'optimizations', 'optimizing', 'code-optimization', 'optimizer']"
+search,['searching']
+stored-procedures,"['stored-procedure', 'sproc']"
+google-cloud-firestore,"['firebase-firestore', 'firestore', 'cloud-firestore', 'firebase-cloud-firestore', 'firebasefirestore']"
+plot,['plotting']
+flash,"['adobe-flash', 'swf', 'flash-player', 'flash-ide']"
+audio,"['sound', 'sound-api', 'sounds']"
+facebook-graph-api,"['facebook-graph', 'graph-api']"
+ipad,"['ipad-sdk', 'ipad-ui', 'ipad-splitview']"
+cocoa-touch,['cocoa-touch-framework']
+amazon-ec2,"['ec2', 'aws-ec2']"
+multidimensional-array,"['multidimensional', '2d-array', '3d-array', 'nested-array', 'rectangular-arrays', 'ndarray']"
+vector,['vectors']
+cookies,['cookie']
+random,"['random-number-generator', 'pseudo-random-numbers', 'random-generator', 'random-numbers', 'random-number', 'rand', 'random-alpha-generator', 'random-string', 'random-string-generator', 'prng', 'random-sample', 'rng', 'java.util.random']"
+video,"['videos', 'movie', 'movies']"
+servlets,"['servlet', 'httpservletresponse', 'httpservletrequest', 'servletcontext', 'webservlet']"
+input,['inputs']
+model-view-controller,['mvc']
+pyspark,['pyspark-dataframes']
+xamarin.forms,['xamarin-forms']
+mod-rewrite,"['rewriteengine', 'rewritecond', 'rewriterule', 'rewritebase', 'rewritemap']"
+indexing,"['index', 'indexes']"
+jdbc,['jdbc-driver']
+serialization,"['serialisation', 'serializing', 'serialized', 'serialze', 'unserialize', 'deserialize', 'serialize', 'serializer']"
+razor,"['vbhtml', 'cshtml', '.cshtml', 'asp.net-razor-pages', 'razor-web-pages']"
+iframe,['iframes']
+data-structures,['data-structure']
+awk,"['gawk', 'nawk', 'mawk', 'awk-formatting']"
+design-patterns,"['pattern', 'design-pattern', 'patterns', 'gof', 'gang-of-four']"
+android-intent,"['intent', 'intents', 'android-intent-flags']"
+visual-c++,"['vc++', 'msvc++', 'msvc', 'vc++.net', 'vc', 'microsoft-visual-c++']"
+text,['plaintext']
+grails,['groovygrails']
+filter,['filters']
+jakarta-ee,"['jee', 'j2ee', 'java-ee', 'java-ee-web-profile']"
+methods,['method']
+beautifulsoup,['bs4']
+checkbox,['checkboxes']
+ecmascript-6,"['es6', 'ecmascript-2015', 'es2015', 'es6-harmony']"
+meteor,"['meteorjs', 'meteor.js']"
+mvvm,['model-view-viewmodel']
+struct,['structs']
+android-activity,"['activity', 'main-activity']"
+android-recyclerview,"['recyclerview', 'recyclerview-layout', 'recycler-adapter']"
+lambda,"['lambda-expressions', 'lambda-functions', 'lambdaexpression', 'generic-lambda']"
+activerecord,"['active-record-query', 'activerecord-relation']"
+django-rest-framework,['drf']
+installation,"['setup', 'installing', 'install', 'installer']"
+bootstrap-4,"['twitter-bootstrap-4', 'bootstrap-4.1.x', 'twitter-bootstrap-4-beta']"
+apache-kafka,['kafka']
+vim,"['vimrc', 'gvimrc', 'gvim', 'vimscript', 'viml']"
+graph,['graphs']
+file-upload,"['upload-file', 'fileuploader', 'image-uploading']"
+svn,['subversion']
+excel-formula,"['excel-match', 'excel-indirect']"
+swiftui,['swiftui-bug']
+memory-management,"['memory-usage', 'memory-allocation', 'memory-deallocation']"
+aws-lambda,['amazon-lambda']
+replace,"['search-and-replace', 'find-and-replace', 'text-replacement', 'string-replacement', 'replacement']"
+types,"['type', 'datatypes', 'datatype']"
+azure-devops,"['tfs-service', 'team-foundation-service', 'vso', 'visual-studio-online', 'vs-team-services', 'visual-studio-team-services', 'vsts']"
+scikit-learn,"['scikits-learn', 'sklearn']"
+layout,"['layouts', 'htmllayout', 'html-layout']"
+websocket,['websockets']
+spring-security,['acegi']
+browser,"['browsers', 'web-browser']"
+shiny,['rshiny']
+import,"['importing', 'imports']"
+sass,['scss']
+charts,"['charting', 'chart', 'charting-controls']"
+cmd,['cmd.exe']
+dll,"['.dll', 'dlls', 'dynamic-link-library', 'dll-hell']"
+eloquent,['laravel-eloquent']
+mysqli,['php-mysqli']
+google-maps-api-3,"['google-maps-v3', 'google-maps-api-v3']"
+reporting-services,"['reporting-service', 'ssrs', 'sql-reporting-services', 'msrs', 'ssrs-reports']"
+dependency-injection,['di']
+vuejs2,['vue2']
+twitter,"['twitter-api', 'twitter-rest-api']"
+extjs,"['ext', 'sencha']"
+plugins,['plugin']
+while-loop,"['while', 'while-loops']"
+foreach,"['foreach-loop', 'enhanced-for-loop']"
+deep-learning,"['dnn-learning', 'deep-neural-network']"
+highcharts,"['highmaps', 'highstock']"
+group-by,"['group-by-all', 'group-by-time-interval']"
+apache-flex,"['adobe-flex', 'flex-sdk']"
+deployment,['deploy']
+makefile,"['makefiles', 'make', 'makefile-errors', 'makefile-project']"
+async-await,"['async-ctp', 'await', '.net-async-await']"
+database-design,"['table-design', 'database-modeling', 'database-architecture', 'schema-design']"
+encoding,['encodings']
+hash,"['hashing', 'hashes', 'hashalgorithm', 'string-hashing', 'digest']"
+collections,"['collection', 'java-collections-api']"
+merge,['merging']
+data-binding,"['databind', 'wpf-binding']"
+visual-studio-2012,"['visual-studio-11', 'vs11', 'vs2011', 'vs2012', 'msvc11']"
+jquery-mobile,['jqm']
+terminal,['terminals']
+service,['services']
+split,"['splitting', 'string-split']"
+printing,"['printer', 'print']"
+java-8,"['jdk8', 'jdk1.8', 'jdk1.8.0', 'openjdk-8']"
+html-table,"['td', 'rowspan', 'colspan']"
+tcp,"['tcpip', 'tcp-ip']"
+web-applications,"['web-application', 'webapp', 'webapps', 'offline-web-app']"
+neo4j,['neo4j2.0']
+tfs,"['team-foundation-server', 'team-foundation']"
+build,"['builds', 'build-process']"
+utf-8,['utf8-decode']
+twitter-bootstrap-3,"['twitter-bootstrap-3.0.2', 'twitter-bootstrap-3.0']"
+oauth-2.0,['oauth2']
+concurrency,"['concurrent', 'concurency', 'concurrent-programming', 'concurrency-violation']"
+drop-down-menu,"['dropdownlist', 'drop-down', 'selectbox']"
+module,['modules']
+hive,['apache-hive']
+google-bigquery,"['google-bigquery-ml', 'python-bigquery', 'bigquery-ml', 'bigquery-standard-sql', 'bigquery']"
+enums,"['enum', 'enumerations']"
+scroll,['scrolling']
+view,['views']
+file-io,"['file-operations', 'output-file', 'fileinput', 'input-files', 'input-file', 'outfile', 'infile', 'output-files']"
+pip,['pip3']
+gwt,['google-web-toolkit']
+parameters,"['parameter', 'params', 'param']"
+backbone.js,"['backbonejs', 'backbone']"
+apache-spark-sql,"['spark-dataframe', 'spark-sql', 'pyspark-sql']"
+colors,"['color', 'colour', 'colours']"
+paypal,"['paypal-api', 'paypal-sdk', 'paypalmerchantsdk', 'paypal-checkout', 'paypal-express']"
+zend-framework,"['zf', 'zend']"
+ssis,"['integration-services', 'dtsx', 'ssis-data-transformations', 'ssis-development']"
+outlook,"['microsoft-office-outlook', 'outlook-express']"
+ansible,['ansible-playbook']
+google-analytics,['google-analytics-filters']
+knockout.js,"['knockoutjs', 'knockout', 'ko.observablearray']"
+fonts,['font']
+constructor,"['ctor', 'constructors']"
+solr,['apache-solr']
+parallel-processing,"['parallel-programming', 'parallel-computing', 'parallel', 'parallelization', 'parallelism']"
+jupyter-notebook,['ipython-notebook']
+jestjs,['jest']
+flexbox,"['css-flexbox', 'flex-grow', 'flex-direction', 'flex']"
+oracle11g,['11g']
+socket.io,['socketio']
+graphics,"['computer-graphics', 'graphic']"
+spring-data-jpa,"['spring-jpa', 'spring-boot-jpa']"
+windows-phone-7,"['wp7', 'windows-phone-7.5']"
+python-requests,['requests']
+visual-studio-2015,"['vs2015', 'vs-2015-preview', 'visual-studio-2015-comm', 'visual-studio-2015-ce']"
+ms-word,"['microsoft-word', 'winword']"
+memory-leaks,['memory-leak']
+firebase-authentication,"['firebase-anonymous-authentication', 'firebasesimplelogin']"
+interface,['interfaces']
+next.js,['nextjs']
+compiler-errors,"['compiler-error', 'compile-errors', 'compile-error', 'compilation-errors', 'compilation-error']"
+timer,['timers']
+cassandra,['apache-cassandra']
+casting,"['typecast', 'cast', 'type-casting']"
+django-forms,"['django-formsets', 'django-modelforms', 'django-modelform', 'django-modelformsets']"
+rxjs,['reactive-extensions-js']
+visual-studio-2013,"['vs2013', 'vs-2013-preview', 'vs-2013-update-2', 'vs2013-update-4', 'vs-2013']"
+directory,"['directories', 'dir', 'folders', 'folder']"
+google-api,['google-apis']
+triggers,"['trigger', 'sql-triggers', 'database-trigger']"
+orm,['object-relational-mapping']
+datatables,['jquery-datatables']
+vbscript,['vbs']
+jar,"['jars', '.jar']"
+routes,"['route', 'custom-routes', 'routing']"
+push-notification,"['push-notifications', 'remote-notifications']"
+sql-server-2005,"['mssql2005', 'sql2005']"
+swift3,"['swift3.0', 'swift3.0.1', 'swift3.0.2', 'swift3.1']"
+nlp,"['natural-language-process', 'natural-language', 'computational-linguistics', 'language-processing', 'text-analysis', 'natural-language-processing']"
+windows-phone-8,['wp8']
+path,"['paths', 'pathname']"
+model,['models']
+functional-programming,['functional']
+xamarin.android,"['monodroid', 'xamarin.droid']"
+hyperlink,"['link', 'hyperlinks', 'links']"
+material-ui,['mui']
+django-templates,['django-template-tags']
+download,"['downloads', 'file-download', 'downloading']"
+entity-framework-core,"['entity-framework-7', 'ef-core', 'efcore']"
+combobox,['comboboxes']
+process,['processes']
+discord,['discordapp']
+properties,['property']
+callback,['callbacks']
+emacs,['multi-term']
+jmeter,['apache-jmeter']
+clojure,"['clj', 'cljc', 'cljx']"
+cron,"['cronjob', 'cronexpression', 'crontab']"
+playframework,['play-mvc']
+safari,['safari-bug']
+io,['input-output']
+scripting,['scripts']
+doctrine-orm,['doctrine2']
+scope,['variable-scope']
+pagination,['paginate']
+scrapy,['scrapy-spider']
+yii,"['yii-framework', 'yii-mvc', 'php-yii', 'yii-db']"
+version-control,"['source-control', 'revision-control', 'scm', 'source-code-management', 'vcs', 'source-code-control', 'scc', 'sccs']"
+permissions,['permission']
+binding,['bindings']
+url-rewriting,"['urlrewrite', 'rewrite-url', 'rewrite', 'urlrewriter']"
+compilation,"['compiling', 'compile']"
+kendo-ui,['kendo']
+architecture,"['software-architecture', 'application-architecture', 'system-architecture', 'solution-architecture']"
+reference,"['php-references', 'references']"
+3d,['3d-graphics']
+f#,['fsharp']
+autocomplete,"['autocompletion', 'autocompleter']"
+datepicker,"['datepicker-ui', 'datapicker']"
+xamarin.ios,['monotouch']
+controller,['controllers']
+tree,['trees']
+phpmyadmin,['myphpadmin']
+x86,"['80x86', 'ia32', 'ia-32', 'pentium', 'i386']"
+static,['static-vs-non-static']
+jsf-2,['jsf2.0']
+grep,"['egrep', 'fgrep', 'pgrep']"
+datagrid,['wpfdatagrid']
+visual-studio-2008,['vs2008']
+webforms,"['webform', 'asp.net-webforms']"
+asp.net-mvc-5,['mvc5']
+menu,['menus']
+notifications,['notification']
+null,"['nullvalue', 'nulls', 'nil']"
+transactions,"['transaction', 'transactional']"
+nested,['nesting']
+google-cloud-functions,"['firebase-functions', 'firebase-cloud-functions']"
+active-directory,['active-directory-group']
+ant,['apache-ant']
+stl,['stl-containers']
+azure-active-directory,['azuread']
+statistics,"['stats', 'statistical-analysis']"
+stream,['streams']

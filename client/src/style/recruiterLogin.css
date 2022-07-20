@@ -1,0 +1,60 @@
+.recruiterLoginContainer{
+ width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.recruiterLoginContainer input{
+    width: 30%;
+    height: 5%;
+    background-color: rgb(191, 191, 191);
+    border-radius: 5px;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px white solid;
+    color: black;
+    transition: all 0.3s ease-in-out;
+}
+.recruiterLoginContainer input:focus{
+    outline: none;
+    background-color: #d3d3d3;
+}
+.recruiterLoginContainer button{
+    width: 20%;
+    height: 5%;
+    background-color: rgb(191, 191, 191);
+    border-radius: 5px;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px white solid;
+    color: black;
+    transition: all 0.3s ease-in-out;
+    margin-bottom: 5px;
+}
+.recruiterLoginContainer button:focus{
+    outline: none;
+}
+.recruiterLoginContainer button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    cursor: pointer;
+}
+.recruiterLoginContainer a{
+    color: black;
+    text-decoration: none;
+    border-bottom: 1px black solid;
+    cursor: pointer;
+}
+.recruiterLoginContainer h3{
+    font-weight: normal;
+}

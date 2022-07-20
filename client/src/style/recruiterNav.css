@@ -1,0 +1,47 @@
+.navbarContainer{
+    width: 100%;
+   
+}
+.navbarContainer .feedHeader{
+    width: 100%;
+    
+    background-color: #282828;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+.navbarContainer .feedHeader a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: normal;
+    background-color: #282828 !important;
+}
+.navbarContainer .feedHeader button{
+    background-color: #282828;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: normal;
+    cursor: pointer;
+}
+.navbarContainer .feedHeader .left{
+    display: flex;
+    align-items: center;
+    margin-left: 40px !important;
+}
+.navbarContainer .feedHeader .left a{
+    font-size: 23px;
+    font-weight: normal;
+    border: none !important;
+ 
+}
+.navbarContainer .feedHeader .right{
+    display: flex;
+    align-items: center;
+    margin-right:-100px !important;
+}

@@ -1,0 +1,209 @@
+.recruiterHome{
+    background-color: #000000;
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    font-weight: normal;
+    color: aliceblue;
+}
+.recruiterHome .recInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.recruiterHome h2{
+    font-weight: normal;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+.userInfo{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px !important;
+    border-radius: 5px;
+    transition: all 0.5s ease-in-out;
+    
+}
+.userInfo:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    cursor: pointer;
+}
+.userInfo h3{
+    font-weight: normal;
+}
+.userInfo h4{
+    font-weight: normal;
+}
+.recruiterHome a{
+    text-decoration: none;
+    color: white;
+    margin-top: 10px !important;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    background-color: black;
+    margin-bottom: 10px !important;
+    transition: all 0.5s ease-in-out;
+    min-width: 100px;
+}
+.recruiterHome a:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    cursor: pointer;
+    border-color: #ffffff;
+}
+.recruiterHome button{
+    text-decoration: none;
+    color: white;
+    min-width: 100px;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    background-color: black;
+    margin-bottom: 10px !important;
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+.recruiterHome button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    cursor: pointer;
+    border-color: #ffffff;
+}
+
+.jobsContainer{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 50%;
+    margin: auto !important;
+    
+}
+
+.recInfo h1{
+    font-weight: normal;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+.userInfo{
+    margin-bottom: 10px !important;
+}
+
+.jobContainerr{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 40%;
+    margin: auto !important;
+}
+.jobContainerr input{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+    text-align: center;
+
+}
+.jobContainerr button{
+    text-decoration: none;
+    color: white;
+    min-width: 100px;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    background-color: black;
+    margin-bottom: 10px !important;
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+.jobsContainer{
+    margin-bottom: 10px !important;
+}
+.recInfo a{
+    color: #70B5F9;
+    /* background-color: rgb(0, 89, 133); */
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 20%;
+    margin-top: 10px !important;
+    transition: all 0.3s ease-in-out;
+
+}
+.recInfo button{
+    color: #70B5F9;
+    /* background-color: rgb(0, 89, 133); */
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 20%;
+    margin-top: 10px !important;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.jobsContainer{
+    margin-bottom: 10px !important;
+    border: 1px solid #70B5F9;
+    background-color: #2d2d2d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.jobsContainer h3{
+    font-weight: normal !important;
+    margin-top: 10px !important;
+}
+.jobsContainer h4{
+    font-weight: normal !important;
+    margin-top: 10px !important;
+}
+.jobsContainer button{
+    color: #70B5F9 !important;
+    /* background-color: rgb(0, 89, 133); */
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 40% !important;
+    margin-top: 10px !important;
+    transition: all 0.5s ease-in-out;
+    max-width: 50% !important;
+}
+.jobsContainer button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    cursor: pointer;
+    border-color: #ffffff;
+}
+.jobsContainer a{
+    color: #70B5F9 !important;
+    /* background-color: rgb(0, 89, 133); */
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 40%;
+    margin-top: 10px !important;
+    transition: all 0.5s ease-in-out;
+    max-width: 50% !important;
+}

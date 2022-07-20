@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.feedContainer{
+    background-color: #000000 !important;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: hidden !important;
+    /* background-color: rgb(255, 255, 255) !important; */
+}
+/* .feedHeader{
+    width: 100% !important;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(24, 24, 24);
+    
+    color: aliceblue;
+} */
+/* .feedHeader a{
+    text-decoration: none;
+    color: white;
+   
+} */
+
+/* .feedHeader button{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(82, 82, 82);
+    padding: 5px;
+    border-radius: 2px;
+    border: rgb(0, 0, 0) 1px solid;
+    cursor: pointer;
+    min-width: 100px;
+} */
+
+
+.sweet-loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100vw;
+}
+/* .username{
+    font-style: italic;
+    font-size: 1.5em;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    width: 40%;
+
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 30px;
+} */
+
+.questionContainer{
+    max-width:80% !important;
+    margin: auto;
+    margin-bottom: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.752);
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(24, 24, 24);
+    color: aliceblue;
+    transition: all 0.3s ease-in-out;
+    margin-top: 10px !important;
+    overflow-y: hidden !important;
+}
+.questionContainer:hover{
+    background-color: rgba(24, 24, 24, 0.929);
+}
+.questionContainer h1{
+    font-size: 1.3em;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+.questionContainer h3{
+    font-size: 1.4em;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+.questionContainer h5{
+    font-size: 1em;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+.questionContainer a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(82, 82, 82);
+    padding: 5px;
+    border-radius: 2px;
+    border: rgb(0, 0, 0) 1px solid;
+    cursor: pointer;
+    min-width: 20%;
+}
+
+.paginationBttns{
+    margin-top: 20px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    width: 100% !important;
+    background-color: rgb(24, 24, 24);
+  
+    color: aliceblue;
+    list-style: none;
+    overflow-y: hidden !important;
+}
+.paginationBttns a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(82, 82, 82);
+    padding: 5px;
+    border-radius: 2px;
+    border: rgb(0, 0, 0) 1px solid;
+    cursor: pointer;
+    min-width: 20%;
+    overflow-y: hidden !important;
+}
+
+.pageSlpit{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 94vw !important;
+    overflow-y: hidden !important;
+   
+}
+
+.pageSlpit .userInfoLeft{
+    width: 30% !important;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(42, 42, 42) !important;
+    border:2px solid rgb(42, 42, 42);
+    position: sticky !important;
+    top: 0;
+    z-index: 1;
+     margin-top: -1650px !important;  
+     color: white;
+     border-radius: 3px;
+     overflow-y: hidden !important;
+     
+}
+.pageSlpit .userInfoLeft a{
+    text-decoration: none;
+    color: #70B5F9;
+    /* background-color: rgb(0, 89, 133); */
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 55%;
+    margin-top: 10px !important;
+    transition: all 0.3s ease-in-out;
+    overflow-y: hidden !important;
+    font-size: 12px;
+}
+.pageSlpit .userInfoLeft a:hover{
+    background-color: rgb(0, 132, 198);
+    color: white;
+    overflow-y: hidden !important;
+}
+
+.pageSlpit .userInfoLeft h2{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    font-weight: normal;
+    border-bottom: 2px solid rgb(174, 174, 174);  
+    padding-bottom: 5px;
+    margin-bottom: 10px !important;
+    overflow-y: hidden !important;
+}
+.pageSlpit .questionFeed{
+    width: 60%  !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow-y: hidden !important;
+    
+    
+}
+.pageSlpit .questionFeed .questionContainer{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+    border: 1px solid rgb(42, 42, 42);
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(42, 42, 42);
+    color: aliceblue;
+    transition: all 0.3s ease-in-out;
+    margin-top: 10px !important;
+    overflow-y: hidden !important;
+}
+.pageSlpit .questionFeed .questionContainer a{
+    text-decoration: none;
+    color: #70B5F9;
+    /* background-color: rgb(0, 89, 133); */
+    background-color: rgb(42, 42, 42);
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 40%;
+    margin-top: 10px !important;
+    transition: all 0.3s ease-in-out;
+    overflow-y: hidden !important;
+}
+
+.pageSlpit .questionFeed  h1{
+    border-bottom: 2px solid rgb(141, 141, 141) !important;
+    padding-bottom: 5px !important;
+    margin-bottom: 10px !important;
+    overflow-y: hidden !important;
+}
+.pageSlpit .questionFeed h3{
+font-weight: normal;
+font-size: 18px;
+overflow-y: hidden !important;
+}
+.pageSlpit .questionFeed h5{
+   padding: 5px;
+   border: #70B5F9 1px solid;
+   padding: 5px;
+    border-radius: 2px;
+    overflow-y: hidden !important;
+}
+.logout{
+    color: #ffffff;
+    background-color: #70B5F9;
+    padding: 5px;
+    border-radius: 20px;
+    border:  rgb(42, 42, 42) 1px solid;
+    cursor: pointer;
+    min-width: 50%;
+    margin-top: 10px !important;
+    transition: all 0.3s ease-in-out;
+    overflow-y: hidden !important;
+
+}

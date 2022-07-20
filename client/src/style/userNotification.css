@@ -1,0 +1,78 @@
+.notfyContainer{
+    width: 100%;
+    min-height: 100vh;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btnn{
+    display: flex;
+    flex-direction: column;
+    max-height:25vh ;
+    align-items: center;
+}
+.btnn input {
+    min-width:30vw;
+    min-height: 6vh ;
+    background: none;
+    color: aliceblue;
+    border:1.8px solid rgb(0, 132, 198) !important;
+    border-radius: 4px;
+    margin-bottom:10px !important ;
+    text-align: center;
+    margin-top: 20px !important;
+}
+.btnn input:focus{
+    outline: none;
+}
+
+.btnn button{
+    color: #70B5F9 !important;
+    /* background-color: rgb(0, 89, 133); */
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 50%;
+    margin-top: 10px !important;
+    transition: all 0.3s ease-in-out;
+    background: none;
+    width: 20%;
+}
+.btnn a{
+    color: #70B5F9 !important;
+    /* background-color: rgb(0, 89, 133); */
+    padding: 5px;
+    border-radius: 20px;
+    border: #70B5F9 1.5px solid;
+    cursor: pointer;
+    min-width: 50%;
+    margin-top: 10px !important;
+    transition: all 0.3s ease-in-out;
+    background: none;
+    width: 20%;
+    text-decoration: none;
+}
+.notifications{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.notifications h1{
+    font-size: 1.5em;
+  font-weight: 300;
+    font-weight: normal;
+    border-bottom: 2px solid rgb(174, 174, 174);
+    margin-bottom: 10px !important;
+    margin-top: 20px !important;
+    width: 140px;
+}
+
+.notifications .body{
+    width:70%;
+    border: 2px solid #70B5F9;
+    border-radius: 5px;
+    margin-bottom: 10px !important;
+}
