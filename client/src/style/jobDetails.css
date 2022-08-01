@@ -68,6 +68,7 @@
     color: aliceblue;
     transition: all 0.3s ease-in-out;
     margin-top: 10px !important;
+    border:1px solid rgb(0, 132, 198) !important;
 }
 .brokerClass h5{
     margin-top: 5px !important;

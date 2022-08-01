@@ -74,7 +74,7 @@ function Home() {
             return (
               <div key={job._id} className="jobsContainer">
                 <h3>job count : {index + 1}</h3>
-                <h3>{job.JobTitle}</h3>
+                <h3>{job.JobTitel}</h3>
                 <h4>{job.skills}</h4>
                 <Link to={`/jobDetails/${job._id}`}>Job Details</Link>
                 <button

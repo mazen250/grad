@@ -42,7 +42,7 @@ function AddJob() {
       } else {
         axios
           .post(`http://localhost:5000/recruiter/addjob`, {
-            JobTitle: jobTitle,
+            JobTitel: jobTitle,
             skills: skills,
             CompanyName: recruiter.CompanyName,
             recruiterId: id,

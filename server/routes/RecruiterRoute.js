@@ -52,14 +52,14 @@ router.route('/login').post((req, res) => {
 
 //add new job 
 router.route('/addjob').post((req, res) => {
-    let JobTitle = req.body.JobTitle;
+    let JobTitel = req.body.JobTitel;
     let skills = req.body.skills;
     let recruiterId = req.body.recruiterId;
     let CompanyName = req.body.CompanyName;
     let recruiterName = req.body.recruiterName;
     let password = req.body.password;
     let newJob = new recruiterModel2({
-        JobTitle: JobTitle,
+        JobTitel: JobTitel,
         skills: skills,
         recruiterId: recruiterId,
         CompanyName: CompanyName,

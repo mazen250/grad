@@ -92,6 +92,8 @@ function AdminHome() {
         ) : null}
         <br />
         <Link to={"/addCompetition"}>add Competition</Link>
+        <Link to={"/"}>Start Skill recommendation action</Link>
+        <Link to={"/"}>Start Job recommendation action</Link>
       </div>
     </div>
   );

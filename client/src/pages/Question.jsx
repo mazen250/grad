@@ -314,16 +314,16 @@ function Question() {
             <h3>user name : {user.display_name}</h3>
             <img src={user.profile_image} alt="" width={"50px"} />
 
-            {user.gold >= 0 ? (
+            {user.Gold >= 0 ? (
               <div className="badges">
                 <div className="singleBadge">
-                  <h3>Gold : {user.gold}</h3>
+                  <h3>Gold : {user.Gold}</h3>
                 </div>
                 <div className="singleBadge">
-                  <h3>Silver : {user.silver} </h3>
+                  <h3>Silver : {user.Silver} </h3>
                 </div>
                 <div className="singleBadge">
-                  <h3>Bronze : {user.bronze} </h3>
+                  <h3>Bronze : {user.Bronze} </h3>
                 </div>
               </div>
             ) : (
